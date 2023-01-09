@@ -1,0 +1,23 @@
+.bandeja {
+  background-color: rgb(255, 255, 145);
+  padding: 25px 25px;
+
+  height: 100vh;
+}
+@media (min-width: 768px) {
+  .bandeja {
+    width: 100%;
+  }
+}
+
+.bandeja__title {
+  padding-bottom: 30px;
+
+  font-size: 40px;
+}
+
+.bandeja__mails {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}

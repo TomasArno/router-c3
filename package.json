@@ -1,0 +1,8 @@
+{
+  "name": "router-c3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TomasArno/router-c3",
+  "author": "Tomas <arnotomas1@gmail.com>",
+  "license": "MIT"
+}
